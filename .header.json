@@ -1,0 +1,20 @@
+{
+    "target": "microbit",
+    "targetVersion": "3.0.22",
+    "name": "ps2-controller",
+    "meta": {},
+    "editor": "tsprj",
+    "pubId": "",
+    "pubCurrent": false,
+    "_rev": null,
+    "id": "2ac9007a-0910-4d81-5432-32b85126339b",
+    "recentUse": 1599550196,
+    "modificationTime": 1599550155,
+    "blobId": null,
+    "blobVersion": null,
+    "blobCurrent": false,
+    "isDeleted": false,
+    "path": "ps2-controller",
+    "githubCurrent": false,
+    "saveId": null
+}
