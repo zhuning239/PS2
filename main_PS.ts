@@ -45,9 +45,9 @@
         Up,
         //% blockId="Start" block="开始(Start)按键"
         Start,
-        //% blockId="Analog_Left" block="左侧摇杆按下"
+        //% blockId="Analog_Left" block="右侧摇杆按下"
         Analog_Left,
-        //% blockId="Analog_Right" block="右侧摇杆按下"
+        //% blockId="Analog_Right" block="左侧摇杆按下"
         Analog_Right,
         //% blockId="Select" block="选择(Select)按键"
         Select,
